@@ -1,5 +1,8 @@
 # Ind_Project_California-Housing-Data--Kaggle
     
+## Screenshot
+![screenshot](https://github.com/dmarks84/Ind_Project_California-Housing-Data--Kaggle/blob/main/housing_screenshot.png?raw=true)
+
 ## Summary
 I worked on the California Housing Data dataset.  The dataset provided 9 features that I used to try to predict the median housing data.  I performed expanded exploratory data analysis in order to consider the best ways to encode categorical data and scale the numeric features.  I also used PCA to add features, as well as K-means clustering to identify potential meaningful cluster identifiers.  THis informaiton was fed into several regression models/estimators, all of which were then run through gridsearch and cross validation to determine the best model on split training and validation data.  
 
